@@ -1,3 +1,5 @@
+## This script is used to generate images from text prompts using DALL-E 3 and calculate the VS score
+
 import argparse
 import base64
 import os
